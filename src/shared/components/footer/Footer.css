@@ -1,0 +1,10 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 150px;
+    background-color: #333333;
+    color: #fff;
+}
+.footer_card_redes{
+    display: flex;
+}

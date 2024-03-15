@@ -1,0 +1,44 @@
+.destinos{
+    padding: 0 150px;
+}
+.destinos h2{
+    color: #949191;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.destinos-cards{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.cards-card{
+    width: 280px;
+    border-radius: 5px;
+    border: 1px solid #E4E4E4;
+
+}
+
+.cards-card img{
+    width: 100%;
+    height: 156px;
+    border-radius: 5px 5px 0 0;
+
+}
+.cards-card-p{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    letter-spacing: 1px;
+    font-size: 13px;
+}
+.cards-card-p i{
+    font-size: 25px;
+}
+.hr {
+    border-bottom: 1px solid #4240408c;
+}
+.card-p-title{
+    color: #000;
+    font-weight: bold;
+}

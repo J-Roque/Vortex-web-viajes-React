@@ -23,7 +23,7 @@ return(
                 <i class='bx bx-party' ></i> Vacaciones
                 </div>
                 <div className='form__items__btn '>
-                <i class='bx bxs-car' ></i> Car
+                <i class='bx bxs-car' ></i> Autos
                 </div>
                 </div>
             </div>
